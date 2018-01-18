@@ -20,7 +20,8 @@ pygmentsCodefences = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Training workshop on statistical analysis of non-linear data — The University of Manchester 29-31 May 2018"
+description = "Training workshop on statistical analysis of non-linear data"
+description2 = "29–31 May 2018, The University of Manchester"
 title404 = "Nothing's here!"
 
 [params.assets]

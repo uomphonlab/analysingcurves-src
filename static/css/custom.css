@@ -14,5 +14,10 @@
 }
 
 ul.social-menu a {
-    color: #cddc39
+    color: #cddc39;
+}
+
+p.site-description2.subtitle {
+    font-style: normal;
+    font-weight: bold;
 }
