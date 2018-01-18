@@ -3,9 +3,9 @@ title: Home
 menu: main
 weight: -270
 ---
-<!-- > To find signals in data, we must learn to reduce the noise—not just the noise that resides in the data, but also the noise that resides in us. It is nearly impossible for noisy minds to perceive anything but noise in data.
+> To find signals in data, we must learn to reduce the noise—not just the noise that resides in the data, but also the noise that resides in us. It is nearly impossible for noisy minds to perceive anything but noise in data.
 >
-> ― Stephen Few, Signal: Understanding What Matters in a World of Noise -->
+> ― Stephen Few, Signal: Understanding What Matters in a World of Noise
 
 ## General info
 
