@@ -11,6 +11,7 @@
     <header id='header' class='header-container'>
       <div class='header site-header'>
         {{ partial "nav/menus/main" . }}
+        {{ partial "nav/menus/social" . }}
         <div class='header-info'>
           {{ if eq .Kind "home" }}
           <h1 class='site-title title'>{{ .Site.Title }}</h1>
@@ -19,6 +20,5 @@
           {{ end }}
           <p class='site-description subtitle'>{{ .Site.Params.info.description }}</p>
         </div>
-        {{ partial "nav/menus/social" . }}
       </div>
     </header>
