@@ -14,7 +14,7 @@ The workshop will feature clinic sessions, in which participants will carry out 
 
 # Pre-registration
 
-If you wish to attend the workshop, please pre-register via the following form. No payment will be taken at this stage. Once we confirm your place, you will receive an e-mail with a link to complete your registration and payment. We anticipate that the registration fee will be £XX, and the discounted fee (for students or unaffiliated researchers) will be £YY.
+If you wish to attend the workshop, please pre-register via the following form. No payment will be taken at this stage. Once we confirm your place, you will receive an e-mail with a link to complete your registration and payment. We anticipate that the registration fee will be £25, and the discounted fee (for students or unaffiliated researchers) will be £50.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc3oASESlQVxHpK6sTU9kLa2Yob6ucnGsTSzIUOpnUMBe7E2g/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
