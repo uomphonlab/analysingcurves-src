@@ -14,11 +14,9 @@ The workshop will feature clinic sessions, in which participants will carry out 
 
 # Pre-registration
 
-> The workshop is currently fully subscribed, but you can still use the pre-registration form to join the waiting list. We will contact you if there are any cancellations.
+> The workshop is currently fully subscribed. If you have pre-registered, we will email you soon with information on how to complete your registration. We expect that registration will open mid-March. If you’re currently on the waiting list, we’ll contact you in case of any cancellations.
 
-If you wish to attend the workshop, please pre-register via the following form. No payment will be taken at this stage. Once we confirm your place, you will receive an e-mail with a link to complete your registration and payment. We anticipate that the registration fee will be £50, and the discounted fee (for students or unaffiliated researchers) will be £25.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc3oASESlQVxHpK6sTU9kLa2Yob6ucnGsTSzIUOpnUMBe7E2g/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+Once we confirm your place, you will receive an e-mail with a link to complete your registration and payment. We anticipate that the registration fee will be £50, and the discounted fee (for students or unaffiliated researchers) will be £25.
 
 ## Important dates
 
