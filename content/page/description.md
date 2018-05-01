@@ -19,37 +19,37 @@ The FDA part of the workshop spans four sessions (see outline schedule). Theory 
 <table>
   <tr>
     <td>Tuesday</td>
-    <td>10-10.50</td>
+    <td>10.00-10.50</td>
     <td>Installation session and registration</td>
   </tr>
   <tr>
     <td></td>
-    <td>10.50-11</td>
+    <td>10.50-11.00</td>
     <td>Welcome</td>
   </tr>
   <tr>
     <td></td>
-    <td>11-12.30</td>
+    <td>11.00-12.30</td>
     <td>GAMM 1</td>
   </tr>
   <tr>
     <td></td>
-    <td>12.30-2</td>
+    <td>12.30-2.00</td>
     <td>Lunch</td>
   </tr>
   <tr>
     <td></td>
-    <td>2-3.30</td>
+    <td>2.00-3.30</td>
     <td>GAMM 2</td>
   </tr>
   <tr>
     <td></td>
-    <td>3.30-4</td>
+    <td>3.30-4.00</td>
     <td>Coffee break</td>
   </tr>
   <tr>
     <td></td>
-    <td>4-5.30</td>
+    <td>4.00-5.30</td>
     <td>GAMM 3</td>
   </tr>
   <tr>
@@ -69,32 +69,37 @@ The FDA part of the workshop spans four sessions (see outline schedule). Theory 
   </tr>
   <tr>
     <td></td>
-    <td>11.30-1</td>
+    <td>11.30-1.00</td>
     <td>CLINIC</td>
   </tr>
   <tr>
     <td></td>
-    <td>1-2.30</td>
+    <td>1.00-2.00</td>
     <td>Lunch</td>
   </tr>
   <tr>
     <td></td>
-    <td>2.30-4</td>
+    <td>2.00-3.30</td>
     <td>FDA 1</td>
   </tr>
   <tr>
     <td></td>
-    <td>4-4.30</td>
+    <td>3.30-4.00</td>
     <td>Coffee break</td>
   </tr>
   <tr>
     <td></td>
-    <td>4.30-5.30</td>
+    <td>4.00-5.00</td>
     <td>FDA 2</td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>5.00-7.00</td>
+    <td>Wine reception</td>
   </tr>
   <tr>
     <td></td>
-    <td></td>
+    <td>8.00</td>
     <td>DINNER</td>
   </tr>
   <tr>
@@ -109,22 +114,22 @@ The FDA part of the workshop spans four sessions (see outline schedule). Theory 
   </tr>
   <tr>
     <td></td>
-    <td>11-11.30</td>
+    <td>11.00-11.30</td>
     <td>Coffee break</td>
   </tr>
   <tr>
     <td></td>
-    <td>11.30-1</td>
+    <td>11.30-1.00</td>
     <td>FDA 4</td>
   </tr>
   <tr>
     <td></td>
-    <td>1-2.30</td>
+    <td>1.00-2.30</td>
     <td>Lunch</td>
   </tr>
   <tr>
     <td></td>
-    <td>2.30-4</td>
+    <td>2.30-4.00</td>
     <td>CLINIC</td>
   </tr>
 </table>
