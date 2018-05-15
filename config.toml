@@ -22,6 +22,7 @@ defaultContentLanguage = "en"
 [params.info]
 description = "Training workshop on statistical analysis of non-linear data"
 description2 = "29–31 May 2018, The University of Manchester"
+description3 = "Ellen Wilkinson building, Graduate School, Conference Room"
 title404 = "Nothing's here!"
 
 [params.assets]
