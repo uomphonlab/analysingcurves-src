@@ -24,7 +24,7 @@ The workshop will be held in the SALC **Graduate School**, which is located in t
 
 <table>
   <tr>
-    <td>Tuesday 28 May</td>
+    <td>Tuesday 29th May</td>
     <td>10.00-10.50</td>
     <td>Installation session and registration</td>
   </tr>
@@ -64,7 +64,7 @@ The workshop will be held in the SALC **Graduate School**, which is located in t
     <td></td>
   </tr>
   <tr>
-    <td>Wednesday 29 May</td>
+    <td>Wednesday 30th May</td>
     <td>9.30-11.00</td>
     <td>GAMM 4</td>
   </tr>
@@ -114,7 +114,7 @@ The workshop will be held in the SALC **Graduate School**, which is located in t
     <td></td>
   </tr>
   <tr>
-    <td>Thursday 31 May</td>
+    <td>Thursday 31st May</td>
     <td>9.30-11.00</td>
     <td>FDA 3</td>
   </tr>
