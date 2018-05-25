@@ -15,4 +15,4 @@ Sóskuthy, M. (2017). *Generalised Additive Mixed Models for dynamic analysis in
 
 Gubian, M., Torreira, F., & Boves, L. (2015). Using Functional Data Analysis for investigating multidimensional dynamic phonetic contrasts. *Journal of Phonetics*, 49, 16--40.
 
-<a href="http://lands.let.ru.nl/FDA/"><i class="fa fa-globe fa-1.5x"></i> Home </a> | <a href="https://twitter.com/MicheleGubian"><i class="fa fa-twitter fa-1.5x"></i> Twitter</a> | <a href="https://github.com/uasolo/FDA-DH"><i class="fa fa-github fa-1.5x"></i> GitHub</a>
+<a href="http://lands.let.ru.nl/FDA/"><i class="fa fa-globe fa-1.5x"></i> Home </a> | <a href="https://twitter.com/MicheleGubian"><i class="fa fa-twitter fa-1.5x"></i> Twitter</a> | <a href="https://github.com/uasolo/FPCA-phonetics-workshop"><i class="fa fa-github fa-1.5x"></i> GitHub</a>
