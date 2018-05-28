@@ -6,6 +6,8 @@ weight: -245
 
 The workshop will be held in the SALC **Graduate School**, which is located in the ground floor of the **Ellen Wilkinson building** (see <a href={{< ref "practical-info.md" >}}>Practical info</a>). The sessions will run in the Conference Room (1 floor via the Graduate School). Breaks and lunches will take place in the Atrium of the Graduate School (ground floor).
 
+You can download a PDF version of the schedule [here](/docs/schedule.pdf).
+
 <table>
   <tr>
     <td>Tuesday 29th May</td>
